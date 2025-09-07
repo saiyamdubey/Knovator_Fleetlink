@@ -10,8 +10,7 @@ Your company is building FleetLink, a platform to manage and book logistics vehi
 The backend manages vehicle fleet availability, bookings, and validations.  
 The frontend provides an interface for adding vehicles, searching, and booking.  
 
-
-[]("https://github.com/saiyamdubey/Knovator_Fleetlink/blob/main/frontend/public/image2.png?raw=true")
+![FleetLink Screenshot](https://github.com/saiyamdubey/Knovator_Fleetlink/blob/main/frontend/public/image2.png?raw=true)
 
 ---
 
@@ -26,8 +25,8 @@ The frontend provides an interface for adding vehicles, searching, and booking.
 - Basic UI with interactive elements (React + Tailwind)  
 
 ---
+![FleetLink Screenshot](https://github.com/saiyamdubey/Knovator_Fleetlink/blob/main/frontend/public/image.png?raw=true)
 
-[]("https://github.com/saiyamdubey/Knovator_Fleetlink/blob/main/frontend/public/image.png?raw=true")
 
 ## 📦 Tech Stack
 - **Frontend**: React.js, Tailwind CSS, React Router  
@@ -40,8 +39,8 @@ The frontend provides an interface for adding vehicles, searching, and booking.
 
 ## 🔧 API Endpoints
 
+![FleetLink Screenshot](https://github.com/saiyamdubey/Knovator_Fleetlink/blob/main/frontend/public/image3.png?raw=true)
 
-[]("https://github.com/saiyamdubey/Knovator_Fleetlink/blob/main/frontend/public/image3.png?raw=true")
 
 ### 🚗 Vehicle APIs
 - `POST /api/vehicles` → Add a new vehicle  
